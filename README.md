@@ -21,3 +21,7 @@ programming language. All the utilizations of necessary ***STRING*** standard li
 functions have been added here. Such as:
 
 `gets()` `puts()` `strlen()` `strcat()` `strcpy()` `strcmp()` `strrev()`
+
+## Arrays
+
+This folder contains some basic knowledge and example codes of arrays.
